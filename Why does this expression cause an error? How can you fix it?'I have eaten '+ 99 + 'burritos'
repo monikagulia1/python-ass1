@@ -1,0 +1,10 @@
+Why does this expression cause an error? How can you fix it?
+'I have eaten' + 99 + 'burritos'
+
+
+concatination happen when all are of string type .
+In this case , 99 is integer not string so it will show error.
+To get result , put 99 in siingle quotes or in double quote which make 99 a string type.
+'I have eaten' + '99' + 'burritos'
+this will give
+'I have eaten 99 burritos'
