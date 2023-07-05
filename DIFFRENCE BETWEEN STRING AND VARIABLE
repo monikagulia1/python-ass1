@@ -1,0 +1,13 @@
+What is the difference between string and variable?
+STRING=
+here, input data is stored in string form
+basically, value under quotes-single('') or double("")
+take 8 byte
+it's value can not be changed
+
+
+variable=
+it's value can be changed (vary so variable)
+not necessarily,put under quotes
+storage also vary
+can be of any type for example-integer,float,string
