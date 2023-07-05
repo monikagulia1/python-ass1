@@ -1,0 +1,13 @@
+This assignment statements, like spam = 10. What is the difference between an
+expression and a statement?
+
+assignment statement=
+it give /assign a value to varible
+there is no operands and operator
+ex= 
+a= 8
+
+expression statement=
+they have operators and operands
+ex= 
+a=10+8
