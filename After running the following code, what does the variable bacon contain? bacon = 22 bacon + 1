@@ -1,0 +1,9 @@
+After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+answer
++ is a operator so it will add 1 in bacon which is 22.
+but it will not store value in bacon  after adding as there is no assignment statement.
+so by printing bacon it will produce 22
+bacon=22
