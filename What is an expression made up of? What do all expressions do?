@@ -1,0 +1,4 @@
+A combination of operands and operators is called an expression. 
+The expression in Python produces some value or result after being interpreted by the Python interpreter. 
+An expression in Python is a combination of operators and operands.
+An example of expression can be : x = x + 1 0 x = x + 10 x=x+10.
