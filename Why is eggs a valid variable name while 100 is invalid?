@@ -1,0 +1,7 @@
+Why is eggs a valid variable name while 100 is invalid?
+ as eggs is a variable
+but 100 is not variable
+to define any variable there are some predefined rule and 100 does not staisfy that.
+Officially, variable names in Python
+can be any length and can consist of uppercase and lowercase letters ( A-Z , a-z ), digits ( 0-9 ), and the underscore character ( _ ). 
+An additional restriction is that, although a variable name can contain digits, the first character of a variable name cannot be a digit.
