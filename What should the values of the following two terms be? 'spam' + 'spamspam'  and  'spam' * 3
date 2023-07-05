@@ -1,0 +1,7 @@
+What should the values of the following two terms be?
+'spam&' + 'spamspam'
+'spam' * 3
+ both statement will give 
+'spamspamspam'
+
+as both of them concat the string
