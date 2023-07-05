@@ -1,0 +1,16 @@
+In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+*
+&#39;hello&#39;
+-87.8
+-
+/
++
+6
+
+answer
+a="-"                                                                                  #a is variable where one should enter values
+if a=="*" or a=="-" or a=="/" or a=="+" or a=="&":                                     #checking whether the value is operator or not
+    print("mathematical operator")                                                     #printing required result
+else:
+    print("values")`CX
